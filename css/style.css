@@ -1,0 +1,193 @@
+/* common css start */
+*{
+    margin: o;
+    padding: 0;
+    outline: 0;
+    font-family: "Open Sans", serif;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,li{
+    list-style-type: none;
+    display: inline-block;
+}
+ul,li,a{
+    display:block;
+    color: white;
+}
+.nav-link {
+	display: block;
+	
+	color: white;
+	text-decoration: none;
+}
+.bgtop h1{
+    
+    font-size: 64px;
+    font-weight: bold;
+    color: black;
+    padding-top: 160px;
+    
+}
+.picitem img{
+    width: 60%;
+}
+#picpart{
+    padding: 100px 0;
+}
+.bgm img{
+    width: 80%;
+
+}
+.choto1 img{
+    padding: 5px;
+}
+    
+	
+/* common css end */
+
+#headerpart{
+   
+}
+ol,ul{
+    text-decoration: none;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgb(53, 63, 38);
+   
+    
+    color: rgb(5, 26, 26);
+}
+.nav-link ul li a{
+	
+	
+	
+}
+.navitem ul li a{
+    color:black;
+}
+/* banner part  */
+#bannerpart{
+    padding: 100px 0;
+    background:url(../images/bg3.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.rrr p{
+    color: red;
+}
+.bgm img{
+    width: 100%;
+}
+.bgicon li a{
+    color: black;
+    display: inline-block;
+   
+}
+.bgicon li i{
+    color: black;
+}
+.btn{
+    padding: 20px;
+    border-radius: 10px;
+    background: rgb(224, 198, 198);
+   
+}
+.ppp p{
+    color: brown;
+  
+    padding-top: 100px;
+
+}
+.pic1 img{
+    width: 100%;
+}
+.pic1 i{
+    font-size:18px;
+    color: black;
+    padding-right: 5px;
+    padding-top: 100px;
+}
+
+.mbt a{
+    font-size: 20px;
+    border-radius:10px;
+    margin: 20px;
+    background: rgb(167, 158, 158);
+    padding: 20px;
+}
+.mbt a:hover{
+    background: rgb(139, 89, 139);
+    
+}
+.iconitem i{
+    font-size: 60px;
+    
+}
+/* shado part */
+#shadopart{
+   
+    padding: 100px;
+    box-shadow: 0px 0px 49px 0px rgba(116, 39, 39, 0.75);
+    -moz-box-shadow: 0px 0px 49px 0px rgba(212, 20, 20, 0.75);
+    box-shadow: 0px 0px 49px 0px rgba(214, 129, 129, 0.75);
+    background: rgb(248, 176, 201);
+}
+.shadobt a{
+    font-family: 20px;
+    
+    padding: 10px;
+    background: palevioletred;
+    border-radius: 10px;
+}
+.shadobt a:hover{
+    background: rgb(255, 174, 0);
+
+}
+
+/* flat item end */
+/* footer part start */
+#footerpart{
+    padding: 100px 0;
+   
+}
+
+.footerLogo p{
+    font-size: 16px;
+    line-height: 26px;
+    color: black;
+    margin-top: 30px;
+    margin-right: 65px;
+}
+
+.footerItem ul{
+    padding: 0;
+}
+
+.footerItem h4{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgb(45, 0, 128);
+    margin-bottom: 50px;
+}
+.footerItem ul li a{
+    color: black;
+    padding: 5px;
+    font-weight: 400;
+}
+
+
+/* footer part end */
+
+
+
